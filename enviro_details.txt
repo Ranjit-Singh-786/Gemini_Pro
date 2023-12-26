@@ -1,0 +1,8 @@
+# Enviroment setup in linux.
+sudo apt install python3.10-venv  <-- to install virtual enviroment creation library.
+
+sudo python3.10 -m venv gemini   <-- to create enviroment with 3.10
+
+source gemini/bin/activate    <-- to activate your virtual enviroment
+
+deactivate     <--- to deactivate the enviroment
