@@ -1,13 +1,6 @@
 # Gemini_Pro
 
-# Enviroment setup in linux.
-sudo apt install python3.10-venv  <-- to install virtual enviroment creation library.
 
-sudo python3.10 -m venv gemini   <-- to create enviroment with 3.10
-
-source gemini/bin/activate    <-- to activate your virtual enviroment
-
-deactivate     <--- to deactivate the enviroment
 
 ### steps to execute the project
 <ul>
@@ -18,3 +11,13 @@ deactivate     <--- to deactivate the enviroment
 <li>Execute  --> streamlit run qa_chat.py</li>
 
 </ul>
+
+
+### Enviroment setup in linux.
+sudo apt install python3.10-venv  <-- to install virtual enviroment creation library.
+
+sudo python3.10 -m venv gemini   <-- to create enviroment with 3.10
+
+source gemini/bin/activate    <-- to activate your virtual enviroment
+
+deactivate     <--- to deactivate the enviroment
